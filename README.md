@@ -25,11 +25,11 @@ Go to navigator (localhost:3000), and you have this:
 ## Deploy smart contract
 if you want to deploy smart contract, you need to connect to ropsten, add your infuraKey in:
 ```sh
-[contract/truffle-config.js] line 22
+[contract/truffle-config.js]  const infuraKey = ""; line 22
 ```
 And add mnemonic from metamask:
 ```sh
-[contract/truffle-config.js] line 25
+[contract/truffle-config.js]  const mnemonic = ''; line 25
 ```
 After you can deploy, goo to main directory:
 
