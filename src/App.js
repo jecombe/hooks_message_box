@@ -89,7 +89,7 @@ async function handleSubmit(e) {
         <h1>Change value in blockchain</h1>
         <form onSubmit={handleSubmit}>
       <label>
-        Frirst Name:
+         data to send 
         <input
           type="text"
           value={dataToBlockchain}
