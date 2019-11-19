@@ -1,5 +1,5 @@
 # HooksMessageBox
-
+This Truffle box is a simple basic exemple to start coding dapp with React using hooks. With this box, you can set a data to a smart contract and get this value.
 ## Download Box
 ```sh
 truffle unbox jecombe/hooks_message_box
