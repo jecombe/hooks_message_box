@@ -36,7 +36,7 @@ After you can deploy, goo to main directory:
 ```sh
 truffle compile && truffle migrate --network ropsten
 ```
-For front-end, you must change address of contract:
+For front-end, you must change this address with address obtained with truffle deploy:
 ```sh
-[src/Message.json]  "address" line 25
+[src/Message.json]  "address" line 120
 ```
