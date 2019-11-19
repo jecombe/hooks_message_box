@@ -6,7 +6,9 @@ truffle unbox jecombe/hooks_message_box
 ```
 
 ## Installation
-You need to have metamask and connect to ropsten testnet you need to have ether faucet ropsten
+You need to have:
+    -metamask and connect to ropsten testnet
+    -ether faucet ropsten
 
 Install dependencies
 ```sh
@@ -21,7 +23,7 @@ Go to navigator (localhost:3000), and you have this:
 ![alt text](navigator.png)
 
 ## Deploy smart contract
-if you want to deploy smart contract, you need to connect to ropsten and add your infuraKey in:
+if you want to deploy smart contract, you need to connect to ropsten, add your infuraKey in:
 ```sh
 [contract/truffle-config.js] line 22
 ```
