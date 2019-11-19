@@ -24,7 +24,7 @@ function useAsyncNetwork() {
       }
     }
     loadWeb3()
-  }, [0]);
+  }, []);
   return [web3, account];
 }
 
@@ -41,7 +41,7 @@ function useAsyncData() {
       setData(get)
     }
     loadBlockchainData()
-  }, [0]);
+  }, []);
   return [data, contract];
 }
 
