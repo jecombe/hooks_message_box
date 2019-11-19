@@ -2,7 +2,7 @@
 
 ## Download Box
 ```sh
-truffle unbox jecombe/hooksmessagebox
+truffle unbox jecombe/hooks_message_box
 ```
 
 ## Installation
