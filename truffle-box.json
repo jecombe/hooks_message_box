@@ -4,7 +4,7 @@
     "commands": {
       "Compile": "truffle compile",
       "Migrate": "truffle migrate",
-      "Run": "npm run start"
+      "Run": "npm start"
     },
     "hooks": {
       "hooks": {
