@@ -7,8 +7,8 @@ truffle unbox jecombe/hooks_message_box
 
 ## Installation
 You need to have:
-    -metamask and connect to ropsten testnet
-    -ether faucet ropsten
+-metamask and connect to ropsten testnet
+-ether faucet ropsten
 
 Install dependencies
 ```sh
